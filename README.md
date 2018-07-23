@@ -7,6 +7,12 @@ This game was created during a 48h Slavic Game Jam:
 
 [SGJGameWebGLBuild](./SGJGameWebGLBuild/index.html)
 
+## Gameplay video
+
+You can watch play-through of the game [here](https://youtu.be/-NTAKnw1OOM).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-NTAKnw1OOM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Controls
 
 ### Keyboard (barely playable):
