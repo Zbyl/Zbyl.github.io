@@ -80,7 +80,9 @@ When on, there is no seeds and pests limit, and planting plants is possible ever
 
 This game was created during a 48h Slavic Game Jam.
 
-Click here to play in your browser: [SGJGameWebGLBuild](./SGJGameWebGLBuild/index.html)
+Click here to play in your browser: [SGJGameWebGLBuild](./SGJGameWebGLBuild/index.html) (Problems: sound and controller issues.)
+
+Builds: [Windows](./WinBuild.zip), [Linux](./LinuxBuild.zip)
 
 ## Gameplay video
 
